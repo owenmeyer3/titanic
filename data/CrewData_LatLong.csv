@@ -1,0 +1,917 @@
+,Pclass,Name,Survived,Sex,Age,Hometown,Role,Role Additional info,Image,Misc Information,Lifeboat,Body Disposition,Job Area,Source of info 1,Source of info 2,Home_Lat,Home_Lng
+0,,"Anderson, J.",1.0,male,40.0,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+1,,"Archer, Ernest",1.0,male,36.0,Southampton,Able bodied seaman,,,,16,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+2,,"Bradley, F.",0.0,male,29.0,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+3,,"Brice, W.",1.0,male,42.0,Southampton,Able bodied seaman,,,,11,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+4,,"Buley, Edward J.",1.0,male,27.0,Southampton,Able bodied seaman,,,,10,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+5,,"Church, G.",0.0,male,,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+6,,"Clench, Fredrick",1.0,male,34.0,Southampton,Able bodied seaman,,,,12,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+7,,"Clench, G.",0.0,male,34.0,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+8,,"Couch, F.",0.0,male,28.0,"Port Isaac, Cornwall",Able bodied seaman,,,,,yes,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.59382000000001,-4.829978
+9,,"Davis, Stephen J.",0.0,male,39.0,Portsmouth,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8197675,-1.0879769
+10,,"Evans, Frank O.",1.0,male,24.0,Southampton,Able bodied seaman,,,,10,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+11,,"Forward, J.",1.0,male,27.0,Southampton,Able bodied seaman,,,,3,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+12,,"Hagan, John",1.0,male,30.0,,Able bodied seaman,,,,Collapsible B,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+13,,"Holman, H.",0.0,male,27.0,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+14,,"Hopkins, Robert",1.0,male,40.0,Belfast,Able bodied seaman,,,,13,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+15,,"Horswell, Albert Edward James ",1.0,male,33.0,Southampton,Able bodied seaman,,,,1,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+16,,"Jones, Thomas",1.0,male,32.0,Liverpool,Able bodied seaman,,,,8,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+17,,"Lucas, William",1.0,male,25.0,Southampton,Able bodied seaman,,,,12,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+18,,"Lyons, William H.",0.0,male,26.0,Southampton,Able bodied seaman,,,,4,"yes, died on Carpathia, buried at sea",Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+19,,"Matherson, D. ",0.0,male,30.0,Southampton,Able bodied seaman,,,,,yes,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+20,,"McAuliffe, ",0.0,male,,,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+21,,"McCarthy, W.",1.0,male,47.0,"Cork, Ireland",Able bodied seaman,,,,4,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.8985143,-8.4756035
+22,,"McGough, James (Paddy)",1.0,male,25.0,Southampton,Able bodied seaman,,,,9,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+23,,"Osman, Frank",1.0,male,28.0,Southampton,Able bodied seaman,,,,2,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+24,,"Pascoe, C. H.",1.0,male,43.0,"Itchen, Hampshire",Able bodied seaman,,,,3,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.00149219999999,-1.3229982
+25,,"Peters, W. C.",1.0,male,26.0,"Woolston, Hampshire",Able bodied seaman,,,,9,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+26,,"Pigott, P.",1.0,male,,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+27,,"Poigndestre, John ",1.0,male,33.0,Southampton,Able bodied seaman,,,,12,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+28,,"Scarrott, Joseph",1.0,male,33.0,Southampton,Able bodied seaman,,,,14,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+29,,"Smith, W.",0.0,male,26.0,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+30,,"Taylor, C.",0.0,male,,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+31,,"Terrell, Bertram",0.0,male,20.0,Southampton,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+32,,"Weller, William",1.0,male,30.0,Southampton,Able bodied seaman,,,,7,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+33,,"White, Ralph ",1.0,male,,,Able bodied seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+34,,"Moore, George",1.0,male,32.0,Southampton,Able bodied seaman ,,,,3,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+35,,"Back, C ",0.0,male,32.0,Southampton,Assistant attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+36,,"Barker, A ",0.0,male,19.0,"Kingsworthy, Winchester",Assistant baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.102386,-1.297073
+37,,"Barnes, W ",0.0,male,37.0,Southampton,Assistant baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+38,,"Chitty, G ",0.0,male,28.0,Southampton,Assistant baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+39,,"Neale, H ",1.0,male,25.0,Southampton,Assistant baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+40,,"Smith, J ",0.0,male,,Southampton,Assistant baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+41,,"Wake, S ",0.0,male,32.0,Southampton,Assistant baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+42,,"White, A ",0.0,male,,Portsmouth,Assistant barber,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8197675,-1.0879769
+43,,"Harding, A ",0.0,male,20.0,"Swaything, Hampshire",Assistant bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9396865,-1.3793283
+44,,"Longmiur, J ",0.0,male,19.0,Eastleigh,Assistant bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.967182,-1.374688
+45,,"Pook, R ",0.0,male,34.0,Plymouth,Assistant bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.3754565,-4.1426565
+46,,"Fellows, A ",0.0,male,29.0,Southampton,Assistant boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+47,,"Guy, J ",1.0,male,28.0,Southampton,Assistant boots,,,,5,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+48,,"Henry, W.",0.0,male,,Southampton,Assistant boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+49,,"Jackson, H ",0.0,male,29.0,Southampton,Assistant boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+50,,Scott,0.0,male,21.0,Southampton,Assistant boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+51,,"Barker, T ",0.0,male,37.0,Southampton,Assistant butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+52,,"Barrow, H ",0.0,male,35.0,Southampton,Assistant butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+53,,"Hensford, J ",0.0,male,29.0,Southampton,Assistant butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+54,,"Mills, C ",1.0,male,51.0,Southampton,Assistant butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+55,,"Wiltshire, W ",0.0,male,33.0,Southampton,Assistant butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+56,,"Bochetez, J ",0.0,male,,Southampton,Assistant chef,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+57,,"Halloway, S ",0.0,male,,Southampton,Assistant clothes presser,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+58,,"Gros, Claude G ",0.0,male,24.0,Southampton,Assistant coffee man, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+59,,"Leader, A ",0.0,male,22.0,West Southbourne,Assistant confectioner,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.7222705,-1.795634
+60,,"Vine, H ",0.0,male,18.0,London,Assistant controller, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+61,,"Coombs, C ",0.0,male,35.0,Southampton,Assistant cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+62,,"Gollop, C ",0.0,male,28.0,Bournemouth,Assistant cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.719164,-1.880769
+63,,"Lock, A ",0.0,male,33.0,Southampton,Assistant cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+64,,"Thorley, W ",0.0,male,15.0,Southampton,Assistant cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+65,,"Welch, W. H ",0.0,male,,Southampton,Assistant cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+66,,"Millar, T.",0.0,male,33.0,Belfast,Assistant deck engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+67,,"Boston, W ",0.0,male,30.0,Southampton,Assistant deck steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+68,,"Hawksworth, W ",0.0,male,38.0,Southampton,Assistant deck steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+69,,"Jupe, Herbert",0.0,male,31.0,"Bitterne Park, Southampton",Assistant electrican,,,,,"yes, buried at sea",Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9286985,-1.3721383
+70,,"Ervine, George",0.0,male,18.0,Belfast,Assistant electrician,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+71,,"Kelly, William",0.0,male,23.0,"Dublin, Ireland",Assistant electrician,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.3498053,-6.2603097
+72,,"Middleton, Alfred Pirrie",0.0,male,17.0,"Ballisare, Sligo",Assistant electrician,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+73,,"Monteverdi, J ",0.0,male,23.0,Southampton,Assistant entree, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+74,,"Dornier, S ",0.0,male,20.0,Southampton,Assistant fish, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+75,,"Testoni, Ercole",0.0,male,23.0,,Assistant glass man,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+76,,"Pacherat, J ",0.0,male,19.0,Southampton,Assistant larder, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+77,,"Akerman, J ",0.0,male,35.0,Southampton,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+78,,"Edwards, C ",0.0,male,38.0,Southampton,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+79,,"Harris, E ",0.0,male,18.0,Winchester,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.059771,-1.310142
+80,,"Levett, G ",0.0,male,21.0,New Southgate,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.61100099999999,-0.135469
+81,,"Marks, J ",0.0,male,26.0,Southampton,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+82,,"Marriott, J. W ",0.0,male,20.0,New Southgate,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.61100099999999,-0.135469
+83,,"Smith, F ",0.0,male,,Southampton,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+84,,"Wrapson, H ",0.0,male,19.0,Southampton,Assistant pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+85,,"Desvernini, L ",0.0,male,20.0,Southampton,Assistant pastry, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+86,,"Aspelagi, G ",0.0,male,26.0,London,Assistant plateman, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+87,,"Corben, E. T ",0.0,male,27.0,Southampton,Assistant printer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+88,,"Holland, T ",0.0,male,28.0,Liverpool,Assistant reception room attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+89,,"Cornaire, M ",0.0,male,19.0,London,Assistant roast, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+90,,"Hamilton, E ",0.0,male,25.0,Southampton,Assistant S. R. steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+91,,"Jouanmault, G ",0.0,male,24.0,Southampton,Assistant sauce, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+92,,"Berthold, Florentini",0.0,male,,London,Assistant scullery man, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+93,,"Hughes, H ",0.0,male,33.0,Southampton,Assistant second steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+94,,"Wheat, Joseph Thomas",1.0,male,,Southampton,Assistant second steward,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+95,,"Johnson, H. ",0.0,male,25.0,Southampton,Assistant ship's cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+96,,"Vilvarlarge, P ",0.0,male,19.0,"Rue National-Ambroise, France",Assistant soup, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,47.41249999999999,0.9838889
+97,,"Andrews, Charles E ",1.0,male,19.0,Southampton,Assistant steward,,,,16,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+98,,"Christmas, H ",0.0,male,33.0,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+99,,"Dean, G ",0.0,male,19.0,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+100,,"Gunn, J ",0.0,male,28.0,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+101,,"Humphreys, H ",0.0,male,31.0,Dolgelly,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,52.74215,-3.884399999999999
+102,,"Kerley, W. T ",0.0,male,28.0,"Bowerthalk, Salisbury",Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+103,,"Lacey, Bert W ",0.0,male,21.0,Salisbury,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.068785,-1.794472
+104,,"Nichols, W. K ",1.0,male,35.0,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+105,,"Owens, L ",0.0,male,29.0,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+106,,"Penny, W ",0.0,male,30.0,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+107,,"Robertson, G ",0.0,male,,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+108,,"Terrell, F.",1.0,male,,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+109,,"Williams, W ",0.0,male,,Southampton,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+110,,"Wood, J. T ",0.0,male,40.0,London,Assistant steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+111,,"Kieran, M ",0.0,male,31.0,Southampton,Assistant storekeeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+112,,"Morgan, W ",0.0,male,,Birkenhead,Assistant storekeeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.38999099999999,-3.023009
+113,,"Prentice, Frank M ",1.0,male,22.0,Southampton,Assistant storekeeper,,,,4,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+114,,"Ricks, Cyril S ",0.0,male,23.0,Southampton,Assistant storekeeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+115,,"Rogers, E. J ",0.0,male,32.0,Southampton,Assistant storekeeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+116,,"Williams, A ",0.0,male,,Liverpool,Assistant storekeeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+117,,"Simpson, J. Edward",0.0,male,37.0,Belfast Ireland,Assistant surgeon,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+118,,"Ayling, E ",0.0,male,22.0,Southampton,Assistant vegetable cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+119,,"Buckley, H ",0.0,male,34.0,Southampton,Assistant vegetable cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+120,,"Ellis, J ",1.0,male,30.0,Southampton,Assistant vegetable cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+121,,"Orr, J ",0.0,male,40.0,Southampton,Assistant vegetable cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+122,,"Broome, Athol",0.0,male,30.0,Southampton,Assistant veranda cafe,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+123,,"Allaria, Baptiste",0.0,male,30.0,Southampton,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+124,,"Bernardi, B ",0.0,male,22.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+125,,"Beux, D ",0.0,male,26.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+126,,"Crovelle, Louis",0.0,male,17.0,Southampton,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+127,,"De Breucq, M ",0.0,male,22.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+128,,Dennarsico,0.0,male,,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+129,,"Donati, Italio",0.0,male,17.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+130,,"Fanette, M ",0.0,male,,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+131,,"Monoros, J ",0.0,male,,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+132,,"Pedrini, Alex",0.0,male,21.0,Southampton,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+133,,"Perotti, Alfonsi",0.0,male,20.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+134,,"Petrachio, A ",0.0,male,,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+135,,"Petrachio, S ",0.0,male,,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+136,,"Piatti, L ",0.0,male,17.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+137,,"Ricardona, R ",0.0,male,32.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+138,,"Sacaggi, G ",0.0,male,24.0,London,Assistant waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+139,,"Bessant, E ",0.0,male,31.0,Southampton,Baggage master,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+140,,"Hartley, Wallace Henry",0.0,male,,"Colne, Lancashire",Bandmaster,,,,,"yes, buried Colne Lancashire",The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.85564,-2.176991
+141,,"Klein, H ",0.0,male,33.0,Southampton,Barber,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+142,,"Weikman, August H.",1.0,male,51.0,Southampton,Barber,,,,Collapsible C,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+143,,"Price, E ",0.0,male,17.0,London,Barman, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+144,,"Clarke, J. Fred C. ",0.0,male,,,Bass violist,,,,,"#202, Mount Olivet Cemetery, Halifax NS",The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+145,,"Broom, H ",0.0,male,33.0,East Cowes,Bath steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.759108,-1.285492
+146,,"Major, E ",0.0,male,35.0,London,Bath steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+147,,"Morris, F ",1.0,male,28.0,London,Bath steward,,,,14,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+148,,"Pennell, F ",0.0,male,33.0,Southampton,Bath steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+149,,"Rule, Samuel J ",1.0,male,58.0,Southampton,Bath steward,,,,15,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+150,,"Hinckley, G ",0.0,male,35.0,Southampton,Baths,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+151,,"Widgery, James",1.0,male,37.0,"Redland, Bristol",Baths,,,,9,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.4677204,-2.6062403
+152,,"Allan, R ",0.0,male,36.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+153,,"Anderson, W ",0.0,male,48.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+154,,"Barlow, G ",0.0,male,36.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+155,,"Beedman, G ",0.0,male,34.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+156,,"Bishop, W ",0.0,male,34.0,"Itchen, Hampshire",Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.00149219999999,-1.3229982
+157,,"Bogie, L ",0.0,male,29.0,Eastleigh,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.967182,-1.374688
+158,,"Bond, W ",0.0,male,40.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+159,,"Boothby, W ",0.0,male,36.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+160,,"Brewster, G. H ",0.0,male,48.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+161,,"Byrne, J ",0.0,male,31.0,"Illford, Essex",Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.556619,0.076251
+162,,"Clark, T ",0.0,male,,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+163,,"Crawford, Alfred",1.0,male,36.0,Southampton,Bedroom steward,,,,8,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+164,,"Crumplin, C ",0.0,male,35.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+165,,"Cullen, C ",1.0,male,45.0,Liverpool,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+166,,"Cunningham, Andrew",1.0,male,35.0,Southampton,Bedroom steward,,,,4,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+167,,"Davies, Gordon",0.0,male,33.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+168,,"Donoghue, F ",0.0,male,35.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+169,,"Etches, Henry Samuel",1.0,male,41.0,Southampton,Bedroom steward,,,,5,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+170,,"Faulkner, William",1.0,male,37.0,Southampton,Bedroom steward,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+171,,"Ford, F ",0.0,male,37.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+172,,"Geddes, R ",0.0,male,31.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+173,,"Gill, S ",0.0,male,34.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+174,,"Hamblyn, Ernest William",0.0,male,41.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+175,,"Hayter, A ",0.0,male,44.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+176,,"Hewett, T ",0.0,male,37.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+177,,"Hill, J ",0.0,male,38.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+178,,"Hogg, C ",0.0,male,37.0,Liverpool,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+179,,"Ide, H ",0.0,male,32.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+180,,"Janaway, W ",0.0,male,35.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+181,,"MacKie, G ",0.0,male,34.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+182,,"McCarty, F ",0.0,male,36.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+183,,"McMurray, W ",0.0,male,43.0,Liverpool,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+184,,"O'Connor, T ",0.0,male,39.0,Liverpool,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+185,,"Penrose, J ",0.0,male,49.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+186,,"Petty, Edwin Henry",0.0,male,25.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+187,,"Reed, C ",0.0,male,43.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+188,,"Roberts, H ",0.0,male,40.0,Liverpool,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+189,,"Siebert, Sidney C. ",0.0,male,,Southampton,Bedroom steward,,,,4,"died on Carpathia, buried at sea",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+190,,"Smith, C ",0.0,male,,"Woolston, Hampshire",Bedroom steward,,,,,"#329?, Fairview Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+191,,"Stone, E ",0.0,male,26.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+192,,"Stone, E ",0.0,male,30.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+193,,"Swan, W ",0.0,male,,Liverpool,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+194,,"Thessinger, A ",1.0,male,,Southampton,Bedroom steward,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+195,,"Ward, E ",0.0,male,34.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+196,,"Ward, P ",0.0,male,38.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+197,,"Wareham, R ",0.0,male,36.0,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+198,,"Wittman, H ",0.0,male,,Southampton,Bedroom steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+199,,"Barrett, A ",0.0,male,15.0,Southampton,Bell boy,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+200,,"Harris, C. H ",0.0,male,16.0,Southampton,Bell Boy,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+201,,"Watson, W ",0.0,male,14.0,Southampton,Bell boy,,,One of the 2 youngest crew members aboard the Titanic,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+202,,"Nichols, Alfred",0.0,male,34.0,Southampton,Boatswain,,,,,died inside ship,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+203,,"Haines, Albert",1.0,male,31.0,Southampton,Boatswain's mate,,,,9,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+204,,"Chisnall, G.",0.0,male,35.0,Southampton,Boilermaker,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+205,,"Bully, H ",0.0,male,21.0,Southampton,Boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+206,,"Chapman, J ",1.0,male,32.0,Southampton,Boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+207,,"Perrin, W ",0.0,male,39.0,Southampton,Boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+208,,"Fletcher, P. W ",0.0,male,26.0,London,Bugler,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+209,,"Smith, Edward John",0.0,male,62.0,Southampton,Captain,,https://www.encyclopedia-titanica.org/files/admin/files/captain-smith-titanic.jpg,"Fifth Officer Harold Lowe ran away from home at age 14 and began life at sea, starting as a ship’s boy on schooners around the Welsh coast.",,,Deck Department,"https://www.lva.virginia.gov/exhibits/titanic/crew.php
+Source 2 https://titanicfacts.net/titanic-crew/",,50.90970040000001,-1.4043509
+210,,"Painton, J. A. ",0.0,male,29.0,Oxford,Captain's steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.7520209,-1.2577263
+211,,"Hutchinson, John H.",0.0,male,26.0,Southampton,Carpenter,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+212,,"Maxwell, John",0.0,male,31.0,Southampton,Carpenter,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+213,,"Scavino, C ",0.0,male,42.0,London,Carver, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+214,,"Bowker, Miss",0.0,female,27.0,"Little Sutton, Cheshire",Cashier, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.285023,-2.9443229
+215,,"Bricoux, Roger",0.0,male,,,Cellist,,,,,,The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+216,,"Taylor, Percy, C.",0.0,male,,,Cellist,,,,,,The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+217,,"Woodward, J. W.",0.0,male,,,Cellist,,,,,,The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+218,,"Proctor, Chester",0.0,male,40.0,Southampton,Chef,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+219,,"Rousseau, P ",0.0,male,49.0,London,Chef, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+220,,"Mauge, Paul ",1.0,male,25.0,London,Chef's assistant, Ala Carte Restaurant,,,5,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+221,,"Joughin, Charles",1.0,male,32.0,Southampton,Chief baker,,,,Collapsible B,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+222,,"Stebbing, S ",0.0,male,,Southampton,Chief boots,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+223,,"Maytum, Alfred",0.0,male,52.0,Southampton,Chief butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+224,,"Sloan, P.",0.0,male,31.0,Southampton,Chief electrician,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+225,,"Bell, Joseph",0.0,male,50.0,Southampton,Chief Engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+226,,"Belford, Walter ",1.0,male,31.0,"Itchen, Hampshire",Chief night baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.00149219999999,-1.3229982
+227,,"Wilde, Henry Tingle",0.0,male,39.0,Liverpool,Chief officer,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+228,,"Walpole, John",0.0,male,48.0,Southampton,Chief pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+229,,"Hardy, John",1.0,male,37.0,Southampton,Chief second class steward,,,,Collapsible D,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+230,,"Dodd, George",0.0,male,44.0,Southampton,Chief second steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+231,,"Latimer, Andrew J ",0.0,male,55.0,Liverpool,Chief steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+232,,"Parsons, E ",0.0,male,35.0,Southampton,Chief storekeeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+233,,"Kiernan, James W.",0.0,male,32.0,Southampton,Chief third class steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+234,,"Ashcroft, A ",0.0,male,26.0,Cheshire,Clerk,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.23263439999999,-2.6103158
+235,,"Campbell, D. S ",0.0,male,25.0,Southampton,Clerk,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+236,,"Rice, J. R ",0.0,male,25.0,Crosby,Clerk,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4892924,-3.0462309
+237,,"Olive, E. R ",0.0,male,28.0,Southampton,Clothes presser,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+238,,"Voegelin, H ",0.0,male,35.0,London,Coffeeman, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+239,,"Farrendon, E ",0.0,male,32.0,Emsworth,Confectioner,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.848132,-0.937928
+240,,"Jeffery, W ",0.0,male,28.0,Southampton,Controller, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+241,,"Kennell, C ",0.0,male,30.0,Southampton,Cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+242,,"Stubbings, H ",0.0,male,,"Woodside, Lymington",Cook and mess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.74571700000001,-1.546645
+243,,"Creese, H.",0.0,male,44.0,Southampton,Deck engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+244,,"Edge, F ",0.0,male,37.0,"Woolston, Hampshire",Deck steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+245,,"Freeman, Ernest E. S ",0.0,male,43.0,Southampton,Deck steward,,,,,"#239, Fairview Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+246,,"White, Alfred ",0.0,male,,,Electrician,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+247,,"Coutin, A ",0.0,male,28.0,Southampton,Entree cook, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+248,,"Maynard, John",1.0,male,31.0,Southampton,Entree cook,,,,Collapsible B,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+249,,"Kemp, Thos",0.0,male,43.0,Southampton,Executive fourth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+250,,"Millar, R.",0.0,male,27.0,"Alloa, N. B.",Extra fifth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,56.00903229999999,-3.582634
+251,,"Davies, J ",0.0,male,27.0,Southampton,Extra second baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+252,,"Burgess, Charles",1.0,male,18.0,Southampton,Extra third baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+253,,"Lowe, Harold Godfrey",1.0,male,29.0,Southampton,Fifth officer,,"https://www.google.com/search?q=titanic+survivor+Lowe,+Harold+Godfrey&sxsrf=ALeKk02bKF3qkcRLkCxvKXikFFh0EQ-bHQ:1615051436194&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiPq5e5l5zvAhWaPM0KHbweBvMQ_AUoAXoECBYQAw&biw=1143&bih=927#imgrc=niL_nzY2jffbfM",,14,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+254,,"Abraham, C.",0.0,male,33.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+255,,"Adams, R.",0.0,male,26.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+256,,"Allen, H.",0.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+257,,"Bailey, G. W.",0.0,male,46.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+258,,"Ball, W.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+259,,"Barlow, C.",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+260,,"Barnes, Chas",0.0,male,29.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+261,,"Barnes, J.",0.0,male,29.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+262,,"Barrett, F. W.",0.0,male,33.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+263,,"Beauchamp, George",1.0,male,24.0,Southampton,Fireman,,,,13,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+264,,"Bendell, T.",0.0,male,24.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+265,,"Bennett, G.",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+266,,"Benville, E.",0.0,male,42.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+267,,"Bessant, W.",0.0,male,39.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+268,,"Biddlecombe, C.",0.0,male,33.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+269,,"Biggs, E.",0.0,male,21.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+270,,"Black, A.",0.0,male,28.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+271,,"Black, D.",0.0,male,41.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+272,,"Blackman, H.",0.0,male,24.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+273,,"Blake, T.",0.0,male,36.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+274,,"Blancy, J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+275,,"Blann, Eustace",0.0,male,21.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+276,,"Bradley, P.",0.0,male,29.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+277,,"Brigge, W.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+278,,"Brown, J.",0.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+279,,"Brown, J.",0.0,male,25.0,Eastleigh,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.967182,-1.374688
+280,,"Burroughs, A.",0.0,male,35.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+281,,"Burton, E.",0.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+282,,"Butt, W.",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+283,,"Camner, J.",0.0,male,40.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+284,,"Cherrett, W.",0.0,male,24.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+285,,"Chorley, J.",0.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+286,,"Clark, W.",1.0,male,39.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+287,,"Coffey, John",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+288,,"Collins, Samuel",1.0,male,35.0,Southampton,Fireman,,,,1,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+289,,"Coombes, G.",1.0,male,21.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+290,,"Cooper, H.",0.0,male,26.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+291,,"Copperthwaite, B.",0.0,male,22.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+292,,"Corcoran, D.",0.0,male,33.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+293,,"Cotton, A.",0.0,male,26.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+294,,"Couper, R.",1.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+295,,"Crimmins, J.",0.0,male,21.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+296,,"Cross, W.",0.0,male,39.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+297,,"Cunningham, B.",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+298,,"Curtis, A.",0.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+299,,"Diaper, J.",1.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+300,,"Dilley, J.",1.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+301,,"Doel, F.",1.0,male,22.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+302,,"Doyle, F.",0.0,male,27.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+303,,"Dymond, Frank",1.0,male,25.0,Southampton,Fireman,,,,15,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+304,,"Flarty, E.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+305,,"Fraser, J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+306,,"Geer, A.",0.0,male,24.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+307,,"Godley, G.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+308,,"Golder, M. W.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+309,,"Graham, T.",1.0,male,,Belfast,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+310,,"Graves, S.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+311,,"Grodidge, E.",0.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+312,,"Hagan, J.",1.0,male,,Southampton,Fireman,,,,Collapsible B,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+313,,"Hall, J.",0.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+314,,"Hallett, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+315,,"Hands, B.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+316,,"Hannam, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+317,,"Harris, E.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+318,,"Harris, F.",0.0,male,34.0,Gosport,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.794995,-1.117547
+319,,"Hart, Thomas ",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+320,,"Hasgood, R.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+321,,"Head, A.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+322,,"Hodges, W.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+323,,"Hosgood, R.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+324,,"Hunt, T.",0.0,male,28.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+325,,"Hurst, C. J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+326,,"Instance, T.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+327,,"Jacobson, John",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+328,,"James, Thos",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+329,,"Jarvis, W.",0.0,male,37.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+330,,"Joas, N.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+331,,"Judd, C.",1.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+332,,"Kasper, F.",1.0,male,40.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+333,,"Kemish, George",1.0,male,,Southampton,Fireman,,,,9,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+334,,"Kerr, T.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+335,,"Kinsella, L.",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+336,,"Lahy, T.",0.0,male,,E. Dulwich,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.4433257,-0.0675547
+337,,"Light, C.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+338,,"Light, W.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+339,,"Lindsay, W.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+340,,"Lloyd, W.",0.0,male,29.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+341,,"Major, W.",1.0,male,,Southampton,Fireman,,,,13,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+342,,"Marrett, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+343,,"Marsh, F.",0.0,male,28.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+344,,"Mason, F.",1.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+345,,"May, Arthur",0.0,male,23.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+346,,"Mayzes, T.",1.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+347,,"McAndrew, Thos",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+348,,"McAndrews, W.",0.0,male,,,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+349,,"McCastlen, W.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+350,,"McGarvey, E.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+351,,"McGaw, E.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+352,,"McGregor, J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+353,,"McQuillan, William",0.0,male,32.0,Belfast,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+354,,"McRae, William",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+355,,"Milford, George",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+356,,"Mintram, W.",0.0,male,46.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+357,,"Moore, J.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+358,,"Morgan, T.",0.0,male,26.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+359,,"Murdoch, W.",1.0,male,34.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+360,,"Nettleton, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+361,,"Noon, John",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+362,,"Norris, J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+363,,"Noss, B.",0.0,male,21.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+364,,"Noss, H.",1.0,male,31.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+365,,"Nutbean, William",1.0,male,31.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+366,,"Oliver, H.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+367,,"Othen, C.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+368,,"Paice, R.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+369,,"Painter, Charles",0.0,male,31.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+370,,"Painter, F.",0.0,male,29.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+371,,"Pand, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+372,,"Pearce, J.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+373,,"Podesta, J.",1.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+374,,"Priest, John",1.0,male,23.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+375,,"Pusey, Robert",1.0,male,24.0,Southampton,Fireman,,,,1,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+376,,"Reeves, F.",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+377,,"Rice, C.",1.0,male,32.0,Southampton,Fireman,,,,10,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+378,,"Richards, H.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+379,,"Rickman, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+380,,"Roberts, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+381,,"Sangster, C.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+382,,"Saunders, T.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+383,,"Saunders, W.",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+384,,"Scott, Archibald",0.0,male,40.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+385,,"Self, E.",1.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+386,,"Senior, Harry",1.0,male,31.0,London,Fireman,,,,Collapsible B,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+387,,"Shea, Thos",0.0,male,29.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+388,,"Shiers, Alfred",1.0,male,24.0,Southampton,Fireman,,,,5,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+389,,"Smith,",0.0,male,,,Fireman,,,,4,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+390,,"Smither, H.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+391,,"Snellgrove, G.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+392,,"Sparkman, H.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+393,,"Stanbrook, Augustus",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+394,,"Street, A.",1.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+395,,"Stubbs, H.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+396,,"Sullivan, S.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+397,,"Taylor, J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+398,,"Taylor, James",1.0,male,25.0,Southampton,Fireman,,,,1,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+399,,"Taylor, T.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+400,,"Taylor, William Henry",1.0,male,28.0,Southampton,Fireman,,,,15,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+401,,"Thomas, J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+402,,"Thompson, John",1.0,male,42.0,Liverpool,Fireman,,,,Collapsible A,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+403,,"Thresher, G.",1.0,male,25.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+404,,"Tizard, A.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+405,,"Toung, F.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+406,,"Triggs, R.",1.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+407,,"Turley, R.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+408,,"Vear, H.",0.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+409,,"Vear, W.",0.0,male,32.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+410,,"Wardner, F.",0.0,male,39.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+411,,"Wateridge, E.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+412,,"Watson, W.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+413,,"Williams, E.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+414,,"Witcher, A.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+415,,"Witt, H.",0.0,male,40.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+416,,"Wyeth, J.",0.0,male,,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+417,,"Young, Francis",0.0,male,30.0,Southampton,Fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+418,,"May, A. W.",0.0,male,60.0,Northam,Fireman's messman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.039809,-4.213152
+419,,"Knowles, T.",1.0,male,39.0,Lymington,Firemen's messman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.758531,-1.5419099
+420,,"Phillips, John George",0.0,male,25.0,London,First Marconi operator,,,,,"died on Collapsible B, buried at sea from Carpathia?",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+421,,"Murdoch, William McMaster",0.0,male,39.0,Southampton,First officer,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+422,,"Hume, John (Jock) Law",1.0,male,,,First violinist,,,,,"#193, buried Fairview Cemetery, Halifax NS",The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+423,,"Vicat, J ",0.0,male,21.0,London,Fish cook, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+424,,"Boxhall, Joseph Grove",1.0,male,28.0,Hull,Fourth Officer,,,,2,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.76762360000001,-0.3274198
+425,,"Ashe, H ",0.0,male,32.0,Liverpool,G. H. steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+426,,"Crispin, W ",0.0,male,32.0,Eastleigh,G. H. steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.967182,-1.374688
+427,,"White, J ",0.0,male,27.0,Portswood,G. H. steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.92520880000001,-1.391916
+428,,"Wright, W ",0.0,male,40.0,Southampton,G. H. steward,,,,13,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+429,,"Salussolia, Giovenz",0.0,male,25.0,London,Glass man, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+430,,"Baines, Rich",0.0,male,24.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+431,,"Bannon, John",0.0,male,32.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+432,,"Beattie, F.",0.0,male,34.0,Belfast,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+433,,"Bott, W.",0.0,male,44.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+434,,"Castleman, E.",0.0,male,37.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+435,,"Couch, J.",0.0,male,45.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+436,,"Eastman, C.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+437,,"Fay, F.",0.0,male,30.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+438,,"Gardner, F.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+439,,"Goree, F.",0.0,male,28.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+440,,"Gregory, D.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+441,,"Jago, J.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+442,,"Jukes, J.",0.0,male,35.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+443,,"Kearl, C.",0.0,male,24.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+444,,"Kelly, Jas",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+445,,"Kenchenten, Fredrick",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+446,,"Kirkham, J.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+447,,"McInerney, T.",0.0,male,,Liverpool,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+448,,"Moores, R.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+449,,"Morris, A.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+450,,"Olive, C.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+451,,"Palles, T.",0.0,male,,Liverpool,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+452,,"Phillips, G.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+453,,"Pitfield, W.",0.0,male,,"Woolston, Hampshire",Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+454,,"Pregnall, George",1.0,male,31.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+455,,"Ranger, Thomas",1.0,male,,Southampton,Greaser,,,,4,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+456,,"Scott, Fred",1.0,male,,Southampton,Greaser,,,,4,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+457,,"Self, A.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+458,,"Stafford, M.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+459,,"Tozer, J.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+460,,"Veal, A.",0.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+461,,"White, Alfred",1.0,male,,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+462,,"Woodford, H.",0.0,male,41.0,Southampton,Greaser,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+463,,"Hurst, Walter",1.0,male,27.0,Southampton,Greaser,,,,Collapsible B,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+464,,"Caunt, W.",0.0,male,27.0,Southampton,Grill cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+465,,"Lovell, J ",0.0,male,38.0,Southampton,Grill cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+466,,"McCawley, T. W ",0.0,male,36.0,Southampton,Gymnasium,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+467,,"Nannini, F ",0.0,male,42.0,Highbury Hill,Head waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5555225,-0.1031488
+468,,"Dunford, W ",0.0,male,41.0,Southampton,Hospital steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+469,,"Mattman, A ",0.0,male,20.0,Southampton,Ice man, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+470,,"Muller, L ",0.0,male,,Southampton,Interpreter,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+471,,"Fitzpatrick, H.",0.0,male,,Belfast,Junior boilermaker,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+472,,"Alsopp, Alfred S.",0.0,male,34.0,Southampton,Junior Electrician,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+473,,"Mackie, W. D.",0.0,male,32.0,London,Junior fifth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+474,,"Dodd, R.",0.0,male,27.0,Southampton,Junior fourth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+475,,"Ward, Arthur",0.0,male,24.0,Romsey,Junior fourth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.98893,-1.49658
+476,,"Smith, James M.",0.0,male,35.0,Southampton,Junior fourth engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+477,,"Harvey, Herbert G.",0.0,male,34.0,Southampton,Junior second assistant engineer,,,,,went down inside ship,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+478,,"Shepherd, Jonathan",0.0,male,32.0,Southampton,Junior second assistant engineer,,,,,went down inside ship,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+479,,"Harrison, N.",0.0,male,39.0,Southampton,Junior second engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+480,,"McReynolds, W.",0.0,male,22.0,Belfast,Junior sixth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+481,,"Coy, F. E. G.",0.0,male,26.0,Southampton,Junior third assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+482,,"Fraser, J.",0.0,male,,Southampton,Junior third assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+483,,"Dodd, E. C.",0.0,male,38.0,Southampton,Junior third engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+484,,"Beere, William",0.0,male,19.0,Southampton,Kitchen Porter,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+485,,"Hardwick, R ",1.0,male,21.0,Southampton,Kitchen porter,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+486,,"Tietz, C ",0.0,male,27.0,Bridgwood,Kitchen porter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.719356,-0.433128
+487,,"Hemmings, Samuel Ernest",1.0,male,43.0,Southampton,Lamptrimmer,,,,4,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+488,,"Bolhens, H ",0.0,male,21.0,Southampton,Larder cook, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+489,,"Slight, W ",0.0,male,,Southampton,Larder cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+490,,"Barrett, Fredrick",1.0,male,28.0,Southampton,Leading fireman,,,,13,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+491,,"Davies, T.",0.0,male,33.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+492,,"Ferris, W.",0.0,male,38.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+493,,"Ford, Thomas",0.0,male,30.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+494,,"Hendrickson, Charles",1.0,male,29.0,Southampton,Leading fireman,,,,1,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+495,,"Keegan, Jas",0.0,male,38.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+496,,"Mason, J.",0.0,male,39.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+497,,"Mayo, W.",0.0,male,27.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+498,,"Pugh, P.",1.0,male,31.0,"Northam, Hampshire",Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9109442,-1.3867764
+499,,"Small, William",0.0,male,40.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+500,,"Threlfall, Thomas",1.0,male,38.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+501,,"Ward, J.",0.0,male,31.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+502,,"Webber, F.",0.0,male,31.0,Southampton,Leading fireman,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+503,,"Kelland, T ",0.0,male,21.0,Southampton,Library,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+504,,"Allan, F ",0.0,male,17.0,Southampton,Lift attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,https://titanicfacts.net/titanic-crew/,50.90970040000001,-1.4043509
+505,,"Carney, William",0.0,male,31.0,Liverpool,Lift attendant,,,,,yes,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+506,,"King, A ",0.0,male,18.0,Gateshead-On-Tyne,Lift attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.95268,-1.603411
+507,,"Pacey, R ",0.0,male,17.0,Southampton,Lift attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+508,,"Baxter, F ",0.0,male,48.0,Southampton,Linen keeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+509,,"Evans, Alfred Frank",1.0,male,24.0,Southampton,Lookout,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+510,,"Fleet, Fredrick",1.0,male,24.0,Southampton,Lookout,,,,6,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+511,,"Hogg, George Alfred",1.0,male,29.0,Southampton,Lookout,,,,7,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+512,,"Jewell, Archie",1.0,male,23.0,Southampton,Lookout,,,,7,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+513,,"Lee, Reginald Robinson",1.0,male,41.0,Southampton,Lookout,,,,13,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+514,,"Symons, George",1.0,male,24.0,Weymouth,Lookout,,,,1,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.6099306,-2.4546253
+515,,"Burke, R ",0.0,male,30.0,"Chandlersford, Hampshire",Lounge attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.983953,-1.379259
+516,,"Gatti, L ",0.0,male,37.0,Southampton,Manager, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+517,,"Bailey, W.",1.0,male,43.0,Southampton,Master at arms,,,,16,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+518,,"King, T. W.",0.0,male,43.0,Great Yarmouth,Master-at-arms,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,52.598233,1.728047
+519,,"Wallis, Mrs ",0.0,female,35.0,Southampton,Matron,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+520,,"Blake, Seaton",0.0,male,26.0,Southampton,Mess steward,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+521,,"Coleman, J.",0.0,male,57.0,Southampton,Mess steward,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+522,,"Fitzpatrick, C. W.",1.0,male,30.0,Southampton,Mess steward,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+523,,"Gunnery, G.",0.0,male,24.0,Southampton,Mess steward,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+524,,"Mathias, M.",0.0,male,27.0,Southampton,Mess-room steward,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+525,,"Tamlyn, Fredrick",0.0,male,23.0,Southampton,Mess-room steward ,,,,,#123,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+526,,"Turvey, C ",0.0,male,16.0,London,Page boy, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+527,,"Abbott, E ",0.0,male,21.0,Southampton,Pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+528,,"Seward, H ",1.0,male,,Southampton,Pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+529,,"Simmons, W ",0.0,male,,Southampton,Pass cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+530,,"Jaillet, H ",0.0,male,28.0,London,Pastry cook, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+531,,"Brailey, Theodore",0.0,male,,,Pianist,,,,,,The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+532,,"Ball, Percy",1.0,male,19.0,Southampton,Plate washer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+533,,"Bradshaw, J ",0.0,male,43.0,Southampton,Plate washer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+534,,"Bunmell, F ",0.0,male,20.0,Liverpool,Plate washer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+535,,"Hiscock, S ",0.0,male,22.0,Southampton,Plate washer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+536,,"Hogue, E ",0.0,male,22.0,London,Plate washer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+537,,"Hopkins, F ",0.0,male,14.0,Southampton,Plate washer,,,One of 2 of the youngest crew members aboard the Titanic,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+538,,"Light, C ",0.0,male,23.0,"Christschurch, Hampshire",Plate washer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.735777,-1.778586
+539,,"Blumet, J ",0.0,male,26.0,Southampton,Plateman, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+540,,Burrage. A ,1.0,male,20.0,Southampton,Plates,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+541,,"Humby, F ",0.0,male,16.0,Southampton,Plates,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+542,,"Jones, A ",0.0,male,38.0,"Woolston, Hampshire",Plates,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+543,,"Rous, A.",0.0,male,26.0,Southampton,Plumber,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+544,,"Gwinn, William Logan",0.0,male,37.0,,Postal clerk,,,,,,The Postmasters,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+545,,"March, John Starr",0.0,male,50.0,,Postal clerk,,,,,,The Postmasters,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+546,,"Smith, John Richard Jago",0.0,male,35.0,,Postal clerk,,,,,,The Postmasters,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+547,,"Williamson, James Bertram",0.0,male,35.0,,Postal clerk,,,,,,The Postmasters,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+548,,"Woody, Oscar S.",0.0,male,44.0,,Postal clerk,,,,,,The Postmasters,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+549,,"Mishellany, A ",0.0,male,52.0,London,Printer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+550,,"Denison, ? (not in RCC)",0.0,male,26.0,,Purser,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+551,,"McElroy, Herbert Walter",0.0,male,37.0,Southampton,Purser,,,,,yes,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+552,,"King, Ernest Waldron",0.0,male,28.0,Clones,Purser clerk,,,,,"#321, Fairview Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.7956346,-1.0556913
+553,,"Bright, Arthur John",1.0,male,41.0,Southampton,Quartermaster,,,,Collapsible D,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+554,,"Hitchens, Robert",1.0,male,29.0,Southampton,Quartermaster,,,,6,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+555,,"Humphreys, James ",1.0,male,48.0,Southampton,Quartermaster,,,,11,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+556,,"Olliver, Alfred",1.0,male,27.0,Southampton,Quartermaster,,,,5,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+557,,"Perkis, Walter J.",1.0,male,37.0,"Bitterne, Hampshire",Quartermaster,,,,4,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9151604,-1.3604008
+558,,"Rowe, George Thomas",1.0,male,32.0,Gosport,Quartermaster,,,,Collapsible C,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.794995,-1.117547
+559,,"Wynn, Walter",1.0,male,41.0,Southampton,Quartermaster,,,,9,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+560,,"Wright, Fredrick",0.0,male,24.0,London,Racquet-court attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+561,,"Dolby, J ",0.0,male,36.0,Southampton,Reception room attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+562,,"Charboison, A ",0.0,male,25.0,London,Roast cook, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+563,,"Jones, H ",0.0,male,29.0,Alresford,Roast cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.0856236,-1.1655575
+564,,"Ahier, P ",0.0,male,20.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+565,,"Allsop, F ",0.0,male,41.0,"Woolston, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+566,,"Baggott, A ",1.0,male,28.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+567,,"Bagley, E ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+568,,"Bailey, G ",0.0,male,36.0,"Brooklands, Shepperton",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.3959665,-0.4498067000000001
+569,,"Barker, E ",0.0,male,37.0,London,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+570,,"Barringer, A ",0.0,male,33.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+571,,"Barrows, W ",0.0,male,32.0,London,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+572,,"Benhem, T ",0.0,male,29.0,Wokingham,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.410457,-0.833861
+573,,"Best, E ",0.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+574,,"Boughton, E ",0.0,male,24.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+575,,"Boyd, J ",0.0,male,35.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+576,,"Boyes, H ",0.0,male,36.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+577,,"Bristowe, H ",0.0,male,33.0,"Shortland, Kent",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.4060266,0.0014606
+578,,"Brown, Edward",1.0,male,34.0,Southampton,Saloon steward,,,,Collapsible A,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+579,,"Brown, W ",0.0,male,28.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+580,,"Burke, William",1.0,male,31.0,Southampton,Saloon steward,,,,10,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+581,,"Burr, E ",0.0,male,29.0,"Woolston, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+582,,"Butt, Robert",0.0,male,22.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+583,,"Butterworth, J ",0.0,male,23.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+584,,"Cartwright, J ",0.0,male,32.0,London,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+585,,"Casswill, C ",0.0,male,32.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+586,,"Cave, Herbert",0.0,male,34.0,Southampton,Saloon steward,,,,,"yes, buried Fairview Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+587,,"Charman, John",0.0,male,25.0,Lewisham,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.4414579,-0.0117006
+588,,"Cheverton, W. F. ",0.0,male,27.0,"Newport, Isle of Wight",Saloon steward,,,,,"yes, buried at sea",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.700803,-1.291633
+589,,"Coleman, A ",0.0,male,28.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+590,,"Conway, P ",0.0,male,25.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+591,,"Cook, George",0.0,male,42.0,Weymouth,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.6099306,-2.4546253
+592,,"Crafter, F ",0.0,male,27.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+593,,"Crisp, H ",0.0,male,35.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+594,,"Crowe, George F.",1.0,male,30.0,Southampton,Saloon steward,,,,14,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+595,,"Dashwood, W ",0.0,male,19.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+596,,"Davies, R. J ",0.0,male,26.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+597,,"Deeble, A ",0.0,male,29.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+598,,"Derrett, A ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+599,,"Deslands, P ",0.0,male,26.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+600,,"Dineage, J ",0.0,male,47.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+601,,"Doughty, W ",0.0,male,22.0,London,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+602,,"Dyer, W ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+603,,"Evans, George",0.0,male,32.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+604,,"Fairall, H ",0.0,male,38.0,"Ryde, Isle of Wight",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.729952,-1.163282
+605,,"Fenton, F ",0.0,male,,"Sholing, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8977373,-1.3470149
+606,,"Frankin, A ",0.0,male,29.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+607,,"Fropper, R ",1.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+608,,"Gibbons, J. W ",1.0,male,36.0,Harbor View,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.3964077,-3.5107004
+609,,"Goshawk, A ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+610,,"Harris, C. W ",0.0,male,19.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+611,,"Harrison, A ",1.0,male,40.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+612,,"Hartnell, Frederick",1.0,male,21.0,Southampton,Saloon steward,,,,8,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+613,,"Hawkesworth, John",0.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+614,,"Helnen, J ",0.0,male,30.0,Lewisham,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.4414579,-0.0117006
+615,,"Hendy, E ",0.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+616,,"Hoare, Leo",0.0,male,21.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+617,,"House, W ",0.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+618,,"Howell, A ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+619,,"Jenner, H ",0.0,male,41.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+620,,"Jenson, C. V ",0.0,male,25.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+621,,"Johnson, James",1.0,male,41.0,Southampton,Saloon steward,,,,2,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+622,,"Jones, A ",0.0,male,17.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+623,,"Jones, Reginald V ",0.0,male,20.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+624,,"Keene, P ",1.0,male,28.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+625,,"Ketchley, H ",0.0,male,30.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+626,,"Kingscote, W. F ",0.0,male,43.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+627,,"Kitching, A ",0.0,male,30.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+628,,"Knight, George",1.0,male,44.0,"Woolston, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+629,,"Lake, W ",0.0,male,35.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+630,,"Lane, A. E ",0.0,male,34.0,"Woolston, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+631,,"Lawrence, A ",0.0,male,25.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+632,,"Lefever, G ",0.0,male,35.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+633,,"Littlejohn, A ",1.0,male,40.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+634,,"Lloyd, H ",0.0,male,32.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+635,,"Lucas, W ",1.0,male,34.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+636,,"Lydiatt, C ",0.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+637,,"MacKay, Charles D ",1.0,male,34.0,Southampton,Saloon steward,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+638,,"McGrady, James",0.0,male,27.0,Southampton,Saloon steward,,,,,"#330, Fairview Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+639,,"McMicken, A ",1.0,male,23.0,Southampton,Saloon steward,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+640,,"McMullen, J ",0.0,male,21.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+641,,"Mellor, A ",0.0,male,34.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+642,,"Middleton, M. V ",0.0,male,24.0,London,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+643,,"Moore, A ",0.0,male,39.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+644,,"Moss, William",0.0,male,34.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+645,,"Nicholls, T ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+646,,"Orpet, W ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+647,,"Osborne, W ",0.0,male,32.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+648,,"Parsons, R ",0.0,male,18.0,"Ashbrittle, Somerset",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.985346,-3.343099
+649,,"Perriton, H ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+650,,"Phillimore, Harold",1.0,male,23.0,Southampton,Saloon steward,,,,14,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+651,,"Pryce, W ",0.0,male,22.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+652,,"Pusey, Jno",0.0,male,35.0,"Itchen, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.00149219999999,-1.3229982
+653,,"Randall, F ",0.0,male,27.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+654,,"Ranson, Jas",0.0,male,33.0,Bristol,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.454513,-2.58791
+655,,"Ray, Frederick Dent",1.0,male,32.0,Reading,Saloon steward,,,,13,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.4542645,-0.9781303
+656,,"Revall, W ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+657,,"Ridout, W ",0.0,male,29.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+658,,"Robinson, J ",0.0,male,30.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+659,,"Rogers, M ",0.0,male,27.0,Winchester,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.059771,-1.310142
+660,,"Rowe, M ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+661,,"Rummer, G ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+662,,"Russell, R ",0.0,male,17.0,"Redbridge, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9207134,-1.4667451
+663,,"Ryerson, W. E ",1.0,male,32.0,London,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+664,,"Samuels, W ",0.0,male,41.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+665,,"Saunders, D. E.",0.0,male,26.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+666,,"Scovell, R ",0.0,male,42.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+667,,"Shea, J ",0.0,male,39.0,"Woolston, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+668,,"Simmons, F. G ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+669,,"Skinner, E ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+670,,"Smillie, J ",0.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+671,,"Smith, R. G ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+672,,"Stagg, J. H ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+673,,"Stroud, E. A ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+674,,"Stroud, H ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+675,,"Strugnell, Jno",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+676,,"Symonds, J ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+677,,"Taylor, W ",0.0,male,21.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+678,,"Thomas, A. C ",1.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+679,,"Thomas, B ",1.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+680,,"Toms, F ",1.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+681,,"Turner, L ",0.0,male,,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+682,,"Veal, T ",0.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+683,,"Ward, William",1.0,male,36.0,Southampton,Saloon steward,,,,9,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+684,,"Warwick, F ",0.0,male,35.0,"Totton, Hampshire",Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9141239,-1.4985934
+685,,"Weatherstone, T ",0.0,male,24.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+686,,"Wheelton, E ",1.0,male,,Southampton,Saloon steward,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+687,,"White, L ",0.0,male,32.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+688,,"Whitely, Thomas",1.0,male,18.0,London,Saloon steward,,,,Collapsible B,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+689,,"Whitford, A ",0.0,male,37.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+690,,"Wormald, T.",0.0,male,36.0,Southampton,Saloon steward,,,,,"yes, buried Baron de Hirsch Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+691,,"Yearsley, H ",1.0,male,38.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+692,,"Yoshack, J ",0.0,male,31.0,Southampton,Saloon steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+693,,"Bietrix, G ",0.0,male,28.0,London,Sauce cook, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+694,,"Windebank, J ",0.0,male,,Southampton,sauce cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+695,,"Fei, Carlo",0.0,male,30.0,London,Sculleryman, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+696,,"Allen, E ",1.0,male,24.0,Southampton,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+697,,"Bull, W ",0.0,male,30.0,Southampton,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+698,,"Colgan, J ",1.0,male,33.0,Southampton,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+699,,"Hall, F ",0.0,male,38.0,London,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+700,,"Hatch, H ",0.0,male,22.0,"Woolston, Hampshire",Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+701,,"Ings, W ",0.0,male,20.0,Southampton,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+702,,"King, G ",0.0,male,20.0,Southampton,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+703,,"Martin, A ",1.0,male,29.0,Fareham,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8548464,-1.1865868
+704,,"Platt, W ",0.0,male,18.0,Southampton,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+705,,"Ross, R ",0.0,male,36.0,"Woolston, Hampshire",Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+706,,"Shaw, H ",0.0,male,,Liverpool,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+707,,"Simmonds, A ",1.0,male,,Southampton,Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+708,,"Smith, C ",0.0,male,38.0,"Itchen, Hampshire",Scullion,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.00149219999999,-1.3229982
+709,,"Collins, John",1.0,male,17.0,Belfast,Scullion ,,,,Collapsible B,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+710,,"Parks, Sam",0.0,male,21.0,,Seaman,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+711,,"Giles, J ",0.0,male,30.0,Southampton,Second baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+712,,"Topp, T ",0.0,male,,Southampton,Second butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+713,,"Martin, Miss M.",1.0,female,20.0,London,Second cashier, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+714,,"Witter, James",1.0,male,31.0,"Woolston, Hampshire",Second class smoke-room steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8935081,-1.3748443
+715,,"Hesketh, James H.",0.0,male,33.0,Liverpool,Second engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+716,,"Bride, Harold Sydney",1.0,male,22.0,London,Second Marconi operator,,,,Collapsible B,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+717,,"Lightoller, Charles Herbert",1.0,male,38.0,Southampton,Second officer,,,,Collapsible B,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+718,,"Tucker, B ",0.0,male,,Southampton,Second pantryman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+719,,"Barker, Reginald L ",0.0,male,40.0,Southampton,Second Purser,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+720,,"Thompson, H ",0.0,male,,Southampton,Second storekeeper,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+721,,"Bochet, G ",0.0,male,43.0,London,Second waiter,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+722,,"Parsons, F. A.",0.0,male,27.0,Southampton,Senior fourth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+723,,"Dyer, Henry Ryland",0.0,male,24.0,Southampton,Senior fourth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+724,,"Hodgkinson, L.",0.0,male,,Southampton,Senior fourth engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+725,,"Wilson, Bertie",0.0,male,28.0,Southampton,Senior second assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+726,,"Farquharson, W.",0.0,male,39.0,Southampton,Senior second engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+727,,"Magee, W.",0.0,male,,Stirling,Senior sixth assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,56.1165227,-3.9369029
+728,,"Hodge, C.",0.0,male,,Southampton,Senior third assistant engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+729,,Hosking. G. F.,0.0,male,36.0,Southampton,Senior third engineer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+730,,"Gill, P ",0.0,male,38.0,Southampton,Ship's cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+731,,"Moody, James Pell",0.0,male,,Grimsby,Sixth officer,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.567471,-0.080784
+732,,"Webb, Brooke",0.0,male,,Southampton,Smoke-room steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+733,,"Janin, C ",0.0,male,29.0,London,Soup cook, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+734,,"Turner, G. F ",0.0,male,28.0,Southampton,Stenographer,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+735,,"Akermann, A ",0.0,male,28.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+736,,"Barton, S ",0.0,male,25.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+737,,"Baxter, H. R ",0.0,male,51.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+738,,"Bristow, Robert C ",0.0,male,31.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+739,,"Brookman, J ",0.0,male,27.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+740,,"Cecil, C ",0.0,male,20.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+741,,"Chitty, G ",0.0,male,52.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+742,,"Cox, Denton",0.0,male,29.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+743,,"Daniels, S ",1.0,male,18.0,Southsea,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.783565,-1.085559
+744,,"Edbrooke, F ",0.0,male,24.0,Landport,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8129544,-1.0866155
+745,,"Ede, G. B ",0.0,male,22.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+746,,"Egg, W. H ",0.0,male,34.0,London,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+747,,"Evans, George",0.0,male,32.0,,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+748,,"Finch, H ",0.0,male,18.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+749,,"Foley, W. C ",1.0,male,26.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+750,,"Ford, E ",0.0,male,32.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+751,,"Fox, W. T ",0.0,male,27.0,"Totton, Hampshire",Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9141239,-1.4985934
+752,,"Halford, R ",1.0,male,22.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+753,,"Hill, H ",0.0,male,36.0,London,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+754,,"Hylands, Leo J ",1.0,male,19.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+755,,"Ingrouville, H ",0.0,male,21.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+756,,"Knight, L",0.0,male,21.0,Bishopstoke,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9683429,-1.3237988
+757,,"Leonard, M ",0.0,male,,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+758,,"Lewis, Arthur",1.0,male,27.0,Southampton,Steward,,,,,"yes, buried Fairview Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+759,,"Mabey, J ",0.0,male,23.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+760,,"Mantle, R ",0.0,male,36.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+761,,"Mullen, T ",0.0,male,20.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+762,,"Nichols, A ",0.0,male,42.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+763,,"Pearce, A ",0.0,male,24.0,Bournemouth,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.719164,-1.880769
+764,,"Port, F ",1.0,male,32.0,Rockbourne,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9625534,-1.8385303
+765,,"Prideaux, J. A ",0.0,male,23.0,Pournemouth,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.719164,-1.880769
+766,,"Prior, H. J ",1.0,male,21.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+767,,"Pugh, Alfred",0.0,male,20.0,Southampton,Steward,,,,14,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+768,,"Rice, P ",0.0,male,25.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+769,,"Ryan, T ",0.0,male,27.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+770,,"Savage, C. J ",1.0,male,23.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+771,,"Sedunary, Sidney",0.0,male,25.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+772,,"Sivier, W ",0.0,male,,Paddington,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.515973,-0.174943
+773,,"Slight, H. J ",0.0,male,35.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+774,,"Talbot, George Fredrick Charles",0.0,male,27.0,Southampton,Steward,,,,,"yes, buried Fairview Cemetery, Halifax NS",Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+775,,"Taylor, C ",0.0,male,35.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+776,,"Thayler, M ",0.0,male,,West Croydon,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.3784164,-0.1024257
+777,,"Willis, W ",0.0,male,66.0,Southampton,Steward,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+778,,"Bennett, Mrs ",1.0,female,30.0,Southampton,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+779,,"Bliss, Miss",1.0,female,45.0,New Southgate,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.61100099999999,-0.135469
+780,,"Gold, Mrs Kate",1.0,female,42.0,Southampton,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+781,,"Gregson, Miss",1.0,female,44.0,Southampton,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+782,,"Jessop, Miss Violet",1.0,female,24.0,London,Stewardess,,,,16,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+783,,"Lavington, Miss",1.0,female,39.0,Winchester,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.059771,-1.310142
+784,,"Leather, Mrs Elizabeth",1.0,female,41.0,Port Sunlight,Stewardess,,,,16,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.3489608,-2.9879639
+785,,"Marsden, Miss",1.0,female,28.0,Southampton,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+786,,"Martin, Mrs. Annie",1.0,female,33.0,Portsmouth,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.8197675,-1.0879769
+787,,"McLaren, Mrs ",1.0,female,40.0,Southampton,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+788,,"Pritchard, Mrs Alice",1.0,female,33.0,London,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+789,,"Roberts, Mrs Mary",1.0,female,41.0,Notts,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.100319,-0.9936305999999998
+790,,"Robinson, Mrs. Annie",1.0,female,40.0,Southampton,Stewardess,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+791,,"Sloan, Miss Mary",1.0,female,28.0,Belfast,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,54.59728500000001,-5.93012
+792,,"Smith, Miss Katherine",1.0,female,42.0,Southampton,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+793,,"Snape, Mrs ",0.0,female,22.0,Sandown,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.6607588,-1.1488128
+794,,"Stap, Miss",1.0,female,47.0,Birkenhead,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.38999099999999,-3.023009
+795,,"Walsh, Miss",0.0,female,32.0,Southampton,Stewardess,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+796,,"Foley, Jack",1.0,male,44.0,Southampton,Storekeeper,,,,4,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+797,,"Foster, A.",0.0,male,37.0,Southampton,Storekeeper,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+798,,"Kenzler, A.",0.0,male,,Southampton,Storekeeper,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+799,,"Newman, C.",0.0,male,32.0,Southampton,Storekeeper,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+800,,"Rudd, Henry",0.0,male,23.0,"Northam, Hampshire",Storekeeper,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9109442,-1.3867764
+801,,"Phillips, J ",0.0,male,35.0,Southampton,Storesman,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+802,,"O'Loughlin, William F. H.",0.0,male,62.0,Southampton,Surgeon,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+803,,"Perkins, L ",0.0,male,,"Soberton, Hampshire",Telephone operator,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.9483849,-1.1296041
+804,,"Hines, G ",0.0,male,36.0,Northants,Third baker,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,52.27299439999999,-0.8755514999999999
+805,,"Roberts, F ",0.0,male,36.0,Reading,Third butcher,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.4542645,-0.9781303
+806,,"Pearcey, Albert Victor",1.0,male,32.0,Southampton,Third class pantryman,,,,Collapsible C,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+807,,"Hart, John Edward",1.0,male,31.0,Southampton,Third class steward,,,,15,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+808,,"Pitman, Herbert John",1.0,male,34.0,Somerset,Third officer,,,,5,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.105097,-2.9262307
+809,,"Allen, E.",1.0,male,26.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+810,,"Avery, J.",1.0,male,22.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+811,,"Bevis, J.",0.0,male,22.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+812,,"Billows, J.",0.0,male,20.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+813,,"Binstead, Walter",1.0,male,19.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+814,,"Blake, P.",1.0,male,22.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+815,,"Brewer, H.",0.0,male,30.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+816,,"Brooks, J.",0.0,male,25.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+817,,"Calderwood, H.",0.0,male,30.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+818,,"Carr, R.",0.0,male,37.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+819,,"Carter, F.",0.0,male,46.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+820,,"Casey, T.",0.0,male,28.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+821,,"Cavell, George",1.0,male,22.0,Southampton,Trimmer,,,,15,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+822,,"Coe, H.",0.0,male,21.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+823,,"Cooper, J.",0.0,male,25.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+824,,"Crabb, H.",0.0,male,23.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+825,,"Dawson, J.",0.0,male,23.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+826,,"Dickson, W.",0.0,male,36.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+827,,"Dillon, Thomas Patrick",1.0,male,25.0,Southampton,Trimmer,,,,4,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+828,,"Dore, A.",1.0,male,22.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+829,,"Eagle, A. J.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+830,,"Elliott, Everett Edward",0.0,male,,London,Trimmer,,,,,"#317, Fairview Cemetery, Halifax NS",Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+831,,"Evans, W.",0.0,male,32.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+832,,"Ferrary, Auto",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+833,,"Ford, H.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+834,,"Fredricks, W.",1.0,male,20.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+835,,"Fryer, A.",1.0,male,26.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+836,,"Gordon, J.",0.0,male,29.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+837,,"Gosling, B.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+838,,"Gosling, S.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+839,,"Green, G.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+840,,"Harris, F.",1.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+841,,"Haslin, J.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+842,,"Hebb, A.",1.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+843,,"Hill, J.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+844,,"Hinton, W.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+845,,"Hunt, Albert",1.0,male,22.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+846,,"Ingram, C.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+847,,"Kearl, G.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+848,,"Lee, H.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+849,,"Long, F.",0.0,male,28.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+850,,"Long, W.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+851,,"Maskell, L.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+852,,"McGann, James",1.0,male,,Southampton,Trimmer,,,,Collapsible B,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+853,,"McIntyre, William",1.0,male,22.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+854,,"Mitchell, B.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+855,,"Moore, R.",0.0,male,,"Headbourne, W. F.",Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.21443980000001,-1.4530102
+856,,"Morgan, A.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+857,,"Morrell, R.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+858,,"Morris, W.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+859,,"O'Connor, John",1.0,male,25.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+860,,"Pelham, G.",1.0,male,39.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+861,,"Perry, E.",1.0,male,19.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+862,,"Perry, H.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+863,,"Preston, Thomas",0.0,male,20.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+864,,"Proudfoot, R.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+865,,"Read, J.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+866,,"Reed, R.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+867,,"Saunders, W.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+868,,"Sheath, F.",1.0,male,20.0,Southampton,Trimmer,,,,1,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+869,,"Shilaber, C.",0.0,male,20.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+870,,"Skeats, W.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+871,,"Smith, E.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+872,,"Snooks, W.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+873,,"Snow, E.",1.0,male,21.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+874,,"Steel, R.",0.0,male,,,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+875,,"Stocker, H.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+876,,"Webb, S. Miss",0.0,female,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+877,,"White, F.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+878,,"White, William George",1.0,male,23.0,Woking,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.316774,-0.5600349
+879,,"Wilton, William",0.0,male,45.0,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+880,,"Witt, F.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+881,,"Woods, H.",0.0,male,,Southampton,Trimmer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+882,,"Caton, Miss",1.0,female,50.0,London,Turkish Bath attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+883,,"Crosbie, J. B ",0.0,male,42.0,London,Turkish Bath attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+884,,"Ennis, W ",0.0,male,35.0,Southport,Turkish Bath attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.645708,-3.010113
+885,,"Slocombe, Mrs. Maud",1.0,female,30.0,London,Turkish Bath attendant,,,,11,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+886,,"Taylor, L ",0.0,male,,Blackpool,Turkish Bath attendant,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.8175053,-3.0356748
+887,,"Hutchinson, J ",0.0,male,29.0,Liverpool,Vegetable cook,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,53.4083714,-2.9915726
+888,,"Stewart, John (Jack)",1.0,male,,Southampton,Veranda cafe,,,,14,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+889,,"Feltham, G ",0.0,male,36.0,Southampton,Vienna,,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+890,,"Krins, George",0.0,male,,,Violist,,,,,,The Band,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
+891,,Banfi,0.0,male,24.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+892,,"Basilico, G ",0.0,male,27.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+893,,"Bazzi, L ",0.0,male,33.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+894,,"Gilardino, V ",0.0,male,31.0,Southampton,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+895,,"Gullio, Casali",0.0,male,,Southampton,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+896,,"Piazza, P ",0.0,male,30.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+897,,"Poggi, E ",0.0,male,28.0,Southampton,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+898,,"Ratti, E ",0.0,male,21.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+899,,"Rigozzi, A ",0.0,male,22.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+900,,"Rotto, Angelo  A.)",0.0,male,23.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+901,,"Sesea, Gino",0.0,male,24.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+902,,"Urbini, R ",0.0,male,22.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+903,,"Valassori, Ettera",0.0,male,35.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+904,,"Vioni, R ",0.0,male,31.0,London,Waiter, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,51.5073509,-0.1277583
+905,,"Harder, William",1.0,male,39.0,Southampton,Window cleaner,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+906,,"Sawyer, R. J.",0.0,male,30.0,Southampton,Window cleaner,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+907,,"Zarracchi, L ",0.0,male,26.0,Southampton,Wine butler, Ala Carte Restaurant,,,,,Victualing Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+908,,"Duffy, William",0.0,male,28.0,Southampton,Writer,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+909,,"French, William",1.0,male,,Southampton,,,,,,,Deck Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,50.90970040000001,-1.4043509
+910,,,,,,,,,,,,,,,,,
+911,,,,,,,,,,,,,,,,,
+912,,,,,,,,,,,,,,,,,
+913,,,,,,,,,,,,,,,,,
+914,,"Williams, Jack",0.0,male,28.0,,,,,,,,Engine Department,https://www.lva.virginia.gov/exhibits/titanic/crew.php,,,
