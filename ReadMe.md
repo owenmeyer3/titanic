@@ -1,40 +1,17 @@
-## Content:
-ML for survival based on other params
-Tableau Graphics
-Github pages front end
+# Background
+Shortly before midnight on April 14, 1912, on her first Trans-Atlantic Voyage from Southampton, UK to New York, NY, the Royal Mail Ship (RMS) Titanic struck an iceberg setting in motion one of the greatest tragedies in history. Shortly after 2 A.M  (less than 3 hours later) on the morning of 15 April 1912, the Titanic sank beneath the waves taking with it almost two-thirds of the passengers and crew (more than 1500 lives lost). Analysis of this tragic accident has generated many theories and hoaxes but has led to an amazing collection of information and imagery of the famous ship and its passengers. This analysis seeks to explore the idea that passenger survival of this tragedy can be predicted based on demographic (age, gender, ticket (social) class) data.
 
-## Responsibilities:
-Michelle - to do Tableau stuff, ppt.
-Colin - Frontend/backend
+# Overview
 
-## Requirements:
-1. Find a problem worth solving, analyzing, or visualizing.
-2. Use ML in the context of technologies learned.
-3. You must use: Scikit-Learn and/or another machine learning library.
-4. You must use at least two of the below:
-* Python Pandas
-* Python Matplotlib
-* HTML/CSS/Bootstrap
-* **JavaScript Plotly**
-* JavaScript D3.js
-* JavaScript Leaflet
-* SQL Database
-* MongoDB Database
-* Google Cloud SQL
-* Amazon AWS
-* **Tableau**
-5. Host application using Heroku or a tool of your choicen (**Github pages**, Flask).
-6. Prepare a 15-minute data deep-dive or infrastructure walkthrough that shows
-machine learning in the context of what we’ve already learned.
-Final Project Requirements: Demystifying ML
-7. Example projects:
-* Create a front-end interface that maps to an API to “smarten” the algorithm.
-* Perform a deep dive of existing data using machine learning.
-* Create a visualization that continues to learn where clusters lie based on ML.
-(Use D3 or Plotly to change the visualization.)
-* Create an idea with mock data that simulates how machine learning might be used.
-* Create an analysis of existing data to make a prediction, classification, or regression.
+## Machine Learning
+Machine learning models were generated to evalauate the possibility of successfully predicting the survival of individuals on the boat based on data associated with individuals. Training data was assembled for passengers with a known life/death outcome. Testing was done with passengers who did not have a known life/death outcome.
 
-## Notes:
-Total onboard: 2222 people
-Passengers: 1317 people
+Three model types were evaluated for accuracy with the training data. The neural net model produced the best results and was chosen to predict the results for the survival data. Model accuracies are listed below (as a percentage of correctly predicted training data results):
+* Neural net model (NN): 76%
+* Logistic regression model (LR): 74%
+* Support vector machine model (SVM): 72%
+
+Feature importance was evaluated for all 3 models to eliminate excess computation involved in training models on features irrelevant to our result. Feature importance modeling showed that all features were significant for this model, and no features should be removed to optimize the model for speed.
+
+While building the LR and SVM models, hyperparameter tuning as used to find the best model parameters to use for our results. These parameters were used in the above percentages.
+
