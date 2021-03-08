@@ -16,4 +16,4 @@ Feature importance was evaluated for all 3 models to eliminate excess computatio
 While building the LR and SVM models, hyperparameter tuning as used to find the best model parameters to use for our results. These parameters were used in the above percentages.
 
 ## Tableau Visualizations
-Using Tableau prep tool, the data was cleansed and re-shaped.  This was export to hyper files. Using Tableau Desktop, the hyper files were used to create worksheets of maps, charts and graphs.  These worksheets were used to create the final dashboards. Individual calculations were used inside of Tableau Desktop.  The Prep file and the Tableau workbook(twbx) file is in the repository
+Using Tableau prep tool, the data was cleansed and re-shaped.  This was exported to hyper files. Using Tableau Desktop, the hyper files were used to create worksheets of maps, charts and graphs.  These worksheets were used to create the final dashboards. Individual calculations were used inside of Tableau Desktop.  The Prep file and the Tableau workbook(twbx) file is in the repository
