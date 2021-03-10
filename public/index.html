@@ -1,0 +1,66 @@
+<html><head>
+  
+    <meta charset="utf-8">
+    <title>Titanic Home</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
+  <body>
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding: 0;">
+      <a class="navbar-brand navbar-padding" style="background-color: lightblue; color: white; padding: 15;" href="index.html">Home</a>
+
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item" style="margin-right: 15px;">
+              <a class="nav-link bg-light" href="data">Data</a>
+            </li>
+          <li class="nav-item">
+              <a class="nav-link bg-light" href="tableau">Tableau</a>
+            </li>  
+        </ul>
+      </div>
+    </nav>
+
+    
+    <div class="container" style="margin-top: 20px;">
+      <div class="row">
+        <div class="col-xs-12 col-md-12">
+          <h1 class="text-center">What were your chances of surviving on the titanic?</h1>
+        </div>
+      </div>
+      <div class="panel-body">
+        <form>
+          <div class="form-group">
+              <ul class="list-group" id="filters">
+                  <li class="filter list-group-item">
+                      <label for="age">Enter Age</label>
+                        <input class="form-control" id="age" type="text" placeholder="0-80">
+                  </li>
+                  <li class="filter list-group-item">
+                    <label for="sex">Enter Sex</label>
+                    <input class="form-control" id="sex" type="text" placeholder="Male/Female">
+                  </li>
+                  <li class="filter list-group-item">
+                    <label for="class">Cabin Class</label>
+                    <input class="form-control" id="pclass" type="text" placeholder="1-3">
+                  </li>
+              </ul>
+          </div>
+            <a href="results" id="filter-btn" type="button" class="btn btn-default">Find Results</a>
+          
+         </form>
+         
+    </div>
+  
+  
+  
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="data_dir/titanic.js"></script>
+    <script src="data_dir/app.js"></script>
+
+  
+    </div></body></html>

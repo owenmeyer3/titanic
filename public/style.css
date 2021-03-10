@@ -1,0 +1,41 @@
+.line {
+    fill: none;
+    stroke-width: 2px;
+  }
+  
+  .orange {
+    stroke: red;
+  }
+  
+  .green {
+    stroke: steelblue;
+  }
+  
+  path {
+    
+    fill: none;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+  body {
+    background-image: url('https://cdn.britannica.com/72/153172-050-EB2F2D95/Titanic.jpg');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}  
+h1 {
+    color: white;
+}
+a {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover {
+    color: black;
+}
